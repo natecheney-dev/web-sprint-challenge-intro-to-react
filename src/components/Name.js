@@ -52,7 +52,7 @@ const StyledText =styled.div`
 const MainDetails = styled.div`
 
     margin:.1%;
-    background: rgba(0,0,0,.3);
+    
 `
 
 
